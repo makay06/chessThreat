@@ -1,0 +1,13 @@
+C:\Users\Makay.Makay-PC\source\repos\chessAPp\chessAPp\bin\Debug\netcoreapp3.1\chessAPp.exe
+C:\Users\Makay.Makay-PC\source\repos\chessAPp\chessAPp\bin\Debug\netcoreapp3.1\chessAPp.deps.json
+C:\Users\Makay.Makay-PC\source\repos\chessAPp\chessAPp\bin\Debug\netcoreapp3.1\chessAPp.runtimeconfig.json
+C:\Users\Makay.Makay-PC\source\repos\chessAPp\chessAPp\bin\Debug\netcoreapp3.1\chessAPp.runtimeconfig.dev.json
+C:\Users\Makay.Makay-PC\source\repos\chessAPp\chessAPp\bin\Debug\netcoreapp3.1\chessAPp.dll
+C:\Users\Makay.Makay-PC\source\repos\chessAPp\chessAPp\bin\Debug\netcoreapp3.1\chessAPp.pdb
+C:\Users\Makay.Makay-PC\source\repos\chessAPp\chessAPp\obj\Debug\netcoreapp3.1\chessAPp.csprojAssemblyReference.cache
+C:\Users\Makay.Makay-PC\source\repos\chessAPp\chessAPp\obj\Debug\netcoreapp3.1\chessAPp.AssemblyInfoInputs.cache
+C:\Users\Makay.Makay-PC\source\repos\chessAPp\chessAPp\obj\Debug\netcoreapp3.1\chessAPp.AssemblyInfo.cs
+C:\Users\Makay.Makay-PC\source\repos\chessAPp\chessAPp\obj\Debug\netcoreapp3.1\chessAPp.csproj.CoreCompileInputs.cache
+C:\Users\Makay.Makay-PC\source\repos\chessAPp\chessAPp\obj\Debug\netcoreapp3.1\chessAPp.dll
+C:\Users\Makay.Makay-PC\source\repos\chessAPp\chessAPp\obj\Debug\netcoreapp3.1\chessAPp.pdb
+C:\Users\Makay.Makay-PC\source\repos\chessAPp\chessAPp\obj\Debug\netcoreapp3.1\chessAPp.genruntimeconfig.cache
